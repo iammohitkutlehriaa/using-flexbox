@@ -1,0 +1,38 @@
+* {
+  margin:0;
+  padding: 0;
+}
+
+.navbar{
+  background-color:black;
+  color: #fff;
+  height: 54px;
+}
+
+ul {
+  padding: 13px
+}
+
+li {
+  text-decoration: none; 
+  display: inline; 
+  padding: 0px 41px;
+  margin: 20px;
+  border: 2px solid #fff;
+}
+
+.container{
+  display:flex;
+  justify-content:space-between;
+}
+.box1 {
+  background-color: pink;
+  height: 50vh;
+  width: 500px;
+}
+
+.box2 {
+  background-color: paleturquoise;
+  height: 50vh;
+  width: 500px;
+}
